@@ -1,4 +1,4 @@
-# Atom
+# Atom 1.0
 Meu projeto no atom:
 
 - file:///home/pedagogico/%C3%81rea%20de%20Trabalho/index.html123 (COPIE E COLE)
